@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:/Users/feexy/zh2en\" && bash start.bat 2>&1 | head -20)",
+      "Bash",
+      "Bash(cd \"C:/Users/feexy/zh2en\" && rm -rf venv)"
+    ]
+  }
+}

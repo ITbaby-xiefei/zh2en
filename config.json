@@ -1,0 +1,11 @@
+{
+    "api_type": "ollama",
+    "endpoint": "http://localhost:11434/api/chat",
+    "api_key": "",
+    "model": "qwen3:latest",
+    "time_window_ms": 500,
+    "toggle_window_s": 3,
+    "system_prompt": "You are a Chinese-to-English translator. Translate the following Chinese text to English. If the text contains non-Chinese parts, keep them unchanged. Only return the translation, no explanation or quotes.",
+    "max_tokens": 2048,
+    "temperature": 0.3
+}
